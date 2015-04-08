@@ -18,4 +18,5 @@ phoneImageFilePath – the location on the phone where the screenshot file is st
 Once the configuration is done, simply run the tool like this:
 
 java -jar adbcontrol.jar
+
 If you put the config file in a different directory, you can add the path to it as an option after the jar file name.
